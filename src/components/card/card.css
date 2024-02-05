@@ -1,0 +1,27 @@
+.card{
+    border: 1px solid rgb(15, 12, 12);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsl(0, 0%, 20%);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+}
+
+.card img{
+    max-height: 250px;
+    border-radius: 50%;
+    height: auto;
+}
+
+.card h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+
+.card p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: rgb(125, 126, 126);    
+
+}

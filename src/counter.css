@@ -1,0 +1,20 @@
+.stn{
+    border:3px solid rgb(232, 210, 210);
+    width: 450px;
+    margin-left: 300px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+.stn button{
+    margin: 20px;
+    width: 90px;
+    height: 40px;
+    color: rgb(12, 22, 22);
+    border-radius: 1px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+

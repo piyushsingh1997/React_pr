@@ -1,0 +1,18 @@
+.btn{
+    width: 250px;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: center;
+}
+
+.btn button {
+    width: 250px;
+    height: 50px;
+    border: 1px solid hsl(0, 72%, 73%);
+    text-align: center;
+    border-style: none;
+    border-radius: 5px;
+    color: rgb(13, 15, 15);
+    cursor: pointer;
+
+}
